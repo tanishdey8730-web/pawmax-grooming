@@ -1,0 +1,13 @@
+{
+  "name": "groom-with-pawmax",
+  "version": "1.0.0",
+  "description": "Groom with PawMax — pet grooming slot booking website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
